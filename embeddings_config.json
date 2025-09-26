@@ -1,0 +1,11 @@
+{
+  "project_id": "prj-d-meta-playground-a917",
+  "location": "us-central1",
+  "gcs_bucket": "vertex-ai-yris-brand-data-embeddings",
+  "gcs_folder": "embeddings_folder_1758881367",
+  "gcs_file": "product_embeddings.json",
+  "gcs_uri": "gs://vertex-ai-yris-brand-data-embeddings/embeddings_folder_1758881367/product_embeddings.json",
+  "total_products": 7,
+  "embedding_model": "text-multilingual-embedding-002",
+  "last_updated": "2025-09-26 15:39:31"
+}
